@@ -58,6 +58,30 @@
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-18" value="&lt;p&gt;&lt;strong&gt;Analytics Service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1160" y="138" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="600" width="60" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="60" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-21" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="468" y="700" width="60" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-22" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="740" y="680" width="60" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-23" value="User Service Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="558" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-24" value="Movie Service Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="642" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-25" value="Review Service Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418" y="672" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-26" value="Recommendation and Analytics Databases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="642" width="250" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
