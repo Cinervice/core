@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="R4EWamfsh_gt4aq3ULMU">
-    <mxGraphModel dx="2576" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2267" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,17 +25,11 @@
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1190" y="176" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-109" y="234" width="68" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="408" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-10" value="&lt;p&gt;&lt;strong&gt;Gateway Service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="438" y="-50" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-11" value="&lt;p&gt;&lt;strong&gt;Authentication Service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="200" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-12" value="&lt;p&gt;&lt;strong&gt;User Service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="14" y="370" width="100" height="50" as="geometry" />
