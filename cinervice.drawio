@@ -76,6 +76,15 @@
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-26" value="Recommendation and Analytics Databases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="642" width="250" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-27" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticache;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438" y="163" width="67.5" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-28" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-10" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-29" value="S3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="98" y="-40" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
