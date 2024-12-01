@@ -4,24 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tPTP5EJk6AqbPcsCi5eH-1" target="tPTP5EJk6AqbPcsCi5eH-9" edge="1">
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="tPTP5EJk6AqbPcsCi5eH-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="515" y="200" />
               <mxPoint x="24" y="200" />
             </Array>
+            <mxPoint x="514.5238095238096" y="83.00000000000023" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tPTP5EJk6AqbPcsCi5eH-1" target="tPTP5EJk6AqbPcsCi5eH-7" edge="1">
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="tPTP5EJk6AqbPcsCi5eH-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="515" y="200" />
               <mxPoint x="1074" y="200" />
             </Array>
+            <mxPoint x="514.5238095238096" y="83.00000000000023" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="476.25" y="-10" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="tPTP5EJk6AqbPcsCi5eH-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -201,6 +200,9 @@
         </mxCell>
         <mxCell id="VbaauHJECKvMJQnjsEnG-5" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="220" y="-153" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VbaauHJECKvMJQnjsEnG-6" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="479" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
