@@ -133,8 +133,8 @@
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-23" value="User Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="135" y="640" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-24" value="Movie Service Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="640" width="150" height="30" as="geometry" />
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-24" value="Movie Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="355" y="640" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-25" value="Review Service Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="596.25" y="640" width="160" height="30" as="geometry" />
