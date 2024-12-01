@@ -88,8 +88,8 @@
             <mxPoint x="315" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-14" value="&lt;p&gt;&lt;strong&gt;Review Service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="260" y="361.5" width="110" height="50" as="geometry" />
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-14" value="&lt;p&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;eview-ervice&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="361.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="tPTP5EJk6AqbPcsCi5eH-15" edge="1">
           <mxGeometry relative="1" as="geometry">
