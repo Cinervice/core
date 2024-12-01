@@ -115,7 +115,7 @@
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-17" value="&lt;p&gt;&lt;strong&gt;notification-service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="845" y="361.5" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-18" value="&lt;p&gt;&lt;strong&gt;Analytics Service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="tPTP5EJk6AqbPcsCi5eH-18" value="&lt;p&gt;&lt;strong&gt;analytics-service&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1014" y="361.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
