@@ -127,9 +127,6 @@
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-26" value="Recommendation and Analytics Databases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="809" y="640" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tPTP5EJk6AqbPcsCi5eH-27" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticache;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-178.75" y="300" width="67.5" height="81" as="geometry" />
-        </mxCell>
         <mxCell id="tPTP5EJk6AqbPcsCi5eH-31" value="ElastiCache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-190" y="270" width="90" height="30" as="geometry" />
         </mxCell>
@@ -207,6 +204,9 @@
         </mxCell>
         <mxCell id="VbaauHJECKvMJQnjsEnG-12" value="Amazon RDS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
           <mxGeometry x="890" y="670" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VbaauHJECKvMJQnjsEnG-13" value="Amazon ElastiCache" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticache;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="300" width="80" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
